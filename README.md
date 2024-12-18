@@ -11,5 +11,9 @@ This report details the configuration and operation of a sandboxed network that 
 The following diagram illustrate the sandbox network architecture![Screenshot 2024-12-18 144110](https://github.com/user-attachments/assets/ae71b7f7-8ce8-4214-83f1-7a0df4771e51)
 
 # Table of IP addresses
+
 ![Screenshot 2024-12-18 152923](https://github.com/user-attachments/assets/de59ddd7-06f4-4117-be61-601af2c6c263)
 
+
+
+# Results
