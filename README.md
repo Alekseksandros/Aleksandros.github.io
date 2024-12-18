@@ -18,4 +18,4 @@ The following diagram illustrate the sandbox network architecture![Screenshot 20
 
 # Demostration of VMs pinging each other
 
-[here](https://www.dropbox.com/scl/fi/w2c6vbvw95vp8pmqwg0ca/Portofolio-2.mp4?rlkey=jh8jqexixysirar9o1mk5k5du&st=seuoq1bf&dl=0)
+A video demonstration showcasing the sandboxed network’s setup and functionality can be accessed[here](https://www.dropbox.com/scl/fi/w2c6vbvw95vp8pmqwg0ca/Portofolio-2.mp4?rlkey=jh8jqexixysirar9o1mk5k5du&st=seuoq1bf&dl=0)
