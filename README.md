@@ -26,3 +26,6 @@ A video demonstration showcasing the sandboxed network’s setup and functionali
 
 This picture shows the ip can recognise the server
 ![Ubuntu Desktop 22 04  Running  - Oracle VirtualBox 20_12_2024 13_33_58](https://github.com/user-attachments/assets/eb19f9af-de84-4230-a7bd-07701b886897)
+![Screenshot 2025-01-04 192302](https://github.com/user-attachments/assets/8a3fc890-a025-4a7f-b301-25835d0492ea)
+![Screenshot 2025-01-04 192326](https://github.com/user-attachments/assets/af86e48c-c5c8-4faf-bf52-0d1599176d2a)
+
