@@ -29,4 +29,7 @@ This picture shows the ip can recognise the server
 2
 ![Screenshot 2025-01-04 192302](https://github.com/user-attachments/assets/8a3fc890-a025-4a7f-b301-25835d0492ea)
 ![Screenshot 2025-01-04 192326](https://github.com/user-attachments/assets/af86e48c-c5c8-4faf-bf52-0d1599176d2a)
+# Portfolio 3
+On this picture its shown the created webserver witch accesed with my ip address
+![Screenshot 2025-01-04 204701](https://github.com/user-attachments/assets/ec6a7c82-ca2a-4970-b8ed-d9a46502ac86)
 
